@@ -65,3 +65,4 @@ But what is the actual **gradient?**. The Gradient is a vector in 2D, composed o
 
 **Add analytical solution from whiteboard here**
 
+
